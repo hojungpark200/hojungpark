@@ -4,7 +4,7 @@
 <img src="https://github.com/hojungpark/hojungpark/blob/main/banner.png"/>
 
 <h1 align="center">Hi 👋, I'm Hojung Park</h1>
-<h3 align="center">A passionate DevOps Engineer from Canada</h3>
+<h3 align="center">A passionate Software Engineer from Canada</h3>
 
 - 📫 How to reach me **hojung7737@gmail.com**
 
