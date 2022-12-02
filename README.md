@@ -1,7 +1,7 @@
 <p align="center">
  
 </p align="center">
-<img src="https://github.com/hojungpark/hojungpark/Hi.png" />
+<img src="https://github.com/hojungpark/hojungpark/blob/main/Hi.png"/>
 
 <h1 align="center">Hi 👋, I'm Hojung Park</h1>
 <h3 align="center">A passionate DevOps Engineer from Canada</h3>
