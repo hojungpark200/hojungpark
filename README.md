@@ -5,7 +5,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
- 💡  &nbsp; I like to explore new technologies and develop software solutions and quick hacks.\
+ 💡  &nbsp; I enjoy bridging the gap between development and operations, and finding innovative ways to automate, streamline, and improve software delivery pipelines.\
 🎓 &nbsp;I'm currently studying Computer Science at Simon Fraser University.\
 🌱 &nbsp;I'm on track for learning more about DevOps, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
