@@ -14,6 +14,8 @@ I am always expanding my skill set in areas such as:
 
 I'm also constantly updating my study notes on these topics, which you can find [here](https://glossy-polish-351.notion.site/Study-Notes-f313cb41bb0349e0bb60da9a4b6977b4).
 
+## 💻 Technologies & Tools
+
 I have hands-on experience with various tools and technologies, such as:
 
 - ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)
