@@ -37,10 +37,11 @@ I have hands-on experience with various tools and technologies, such as:
 
 ## 💬 Let's Connect
 
-I am always open to engaging in meaningful discussions, collaborating on exciting projects, and contributing to open-source software initiatives. You can reach me through [LinkedIn](https://www.linkedin.com/in/hojungpark//) or via email at hojungpark.devops@gmail.com.
+I am always open to engaging in meaningful discussions, collaborating on exciting projects, and contributing to open-source software initiatives. You can reach me through [LinkedIn](https://www.linkedin.com/in/hojungpark/) or via email at hojungpark.devops@gmail.com.
 
 ## 📄 Check out my Resume
 
 For a comprehensive overview of my experience and qualifications, please refer to my [Resume](https://github.com/hojungpark/hojungpark/blob/main/Hojung_Park_Resume.pdf).
+<a href="https://github.com/hojungpark/hojungpark/blob/main/Hojung_Park_Resume.pdf" download>Download File</a>
 
 Looking forward to connecting with you!
