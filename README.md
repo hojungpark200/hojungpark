@@ -2,7 +2,7 @@
 
 ## 👋 About me
 
-I'm a Computer Science student at Simon Fraser University with a concentration in Cloud Computing. I am passionate about finding new and creative ways to automate and streamline software development processes and infrastructure operations.
+As a Computer Science student at Simon Fraser University, I am continuously seeking opportunities to expand my knowledge and hone my skills in the field of DevOps. I am passionate about automating and streamlining software development processes and infrastructure operations through innovative and creative solutions. I am excited to apply my skills and knowledge to contribute to the success of your organization.
 
 
 ## 🌱 I'm currently learning
