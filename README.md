@@ -1,23 +1,24 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Hojung (James) Park 👋
 
-I'm a DevOps Engineer with [Number of Years] years of experience in the technology industry. I am passionate about leveraging cutting-edge technologies and innovative approaches to enhance software delivery and system performance.
+I'm a Computer Science student at Simon Fraser University with a concentration in Cloud Computing. I am passionate about finding new and creative ways to automate and streamline software development processes and infrastructure operations.
+
 
 ## 🌱 I'm currently learning
 
 I am always expanding my skill set in areas such as:
 
 - DevOps practices
-- Cloud Architecture and Infrastructure
+- Linux for System Engineering
 - Automation and Scripting
-- Containerization technologies such as Docker and Kubernetes
+- Network Programming
 
-I'm also constantly updating my study notes on these topics, which you can find [here](https://linktoyourstudynotes.com).
+I'm also constantly updating my study notes on these topics, which you can find [here](https://glossy-polish-351.notion.site/Study-Notes-f313cb41bb0349e0bb60da9a4b6977b4).
 
 ## 🔧 Technologies & Tools
 
 I have hands-on experience with various tools and technologies, such as:
 
-- Cloud Platforms: AWS, Azure, Google Cloud
+- Cloud Platforms: AWS
 - Configuration Management: Ansible, Chef, Puppet
 - Continuous Integration and Delivery: Jenkins, GitLab CI/CD, Travis CI
 - Monitoring and Logging: Nagios, ELK Stack, Prometheus, Grafana
