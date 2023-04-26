@@ -7,7 +7,7 @@
 
  💡  &nbsp; I enjoy finding innovative ways to automate, streamline, and improve software delivery pipelines.\
 🎓 &nbsp;I'm currently studying Computer Science at Simon Fraser University.\
-🌱 &nbsp;I'm on track for learning more about DevOps, Systems Design, and Cloud Architecture.\
+🌱 &nbsp;I am constantly learning and expanding my skill set in areas such as DevOps, Cloud Architecture, and Systems Design.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
