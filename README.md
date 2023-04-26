@@ -14,17 +14,17 @@ I am always expanding my skill set in areas such as:
 
 I'm also constantly updating my study notes on these topics, which you can find [here](https://glossy-polish-351.notion.site/Study-Notes-f313cb41bb0349e0bb60da9a4b6977b4).
 
-## 🔧 Technologies & Tools
-
 I have hands-on experience with various tools and technologies, such as:
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 
-- Cloud Platforms:<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-- Configuration Management: Ansible, Chef, Puppet
-- Continuous Integration and Delivery: Jenkins, GitLab CI/CD, Travis CI
-- Monitoring and Logging: Nagios, ELK Stack, Prometheus, Grafana
-- Scripting and Programming Languages: Python, Bash, PowerShell, Ruby
-- Containerization: Docker, Kubernetes
+- ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)
+- ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+- ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white)
+- ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+- ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white)
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
 
 ## 💬 Let's Connect
 
