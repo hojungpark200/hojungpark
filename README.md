@@ -1,4 +1,4 @@
-![Banner](https://github.com/hojungpark/hojungpark/github-banner.png)
+![Banner](https://github.com/hojungpark/hojungpark/blob/main/github-banner.png)
 
 # Hello, I'm Hojung (James) Park 👋
 
