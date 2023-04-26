@@ -30,6 +30,7 @@ I have hands-on experience with various tools and technologies, such as:
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=java)
 ![Jira](https://img.shields.io/badge/-Jira-000?&style=for-the-badge&logo=Jira-Software&logoColor=0052CC)
 
 ## 💬 Let's Connect
