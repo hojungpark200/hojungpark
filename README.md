@@ -27,7 +27,7 @@ I have hands-on experience with various tools and technologies, such as:
 
 ## 💬 Let's Connect
 
-I am always open to engaging in meaningful discussions, collaborating on exciting projects, and contributing to open-source software initiatives. You can reach me through [LinkedIn](https://www.linkedin.com/in/[YourLinkedInProfile]/) or via email at [YourEmail@domain.com].
+I am always open to engaging in meaningful discussions, collaborating on exciting projects, and contributing to open-source software initiatives. You can reach me through [LinkedIn](https://www.linkedin.com/in/hojungpark//) or via email at hojungpark.devops@gmail.com.
 
 ## 📄 Check out my Resume
 
