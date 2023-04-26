@@ -18,7 +18,7 @@ I'm also constantly updating my study notes on these topics, which you can find 
 
 I have hands-on experience with various tools and technologies, such as:
 
-- Cloud Platforms: AWS
+- Cloud Platforms: https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white
 - Configuration Management: Ansible, Chef, Puppet
 - Continuous Integration and Delivery: Jenkins, GitLab CI/CD, Travis CI
 - Monitoring and Logging: Nagios, ELK Stack, Prometheus, Grafana
