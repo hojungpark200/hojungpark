@@ -1,3 +1,5 @@
+![Banner](https://github.com/[hojungpark]/[hojungpark]/github-banner.png)
+
 # Hello, I'm Hojung (James) Park 👋
 
 I'm a Computer Science student at Simon Fraser University with a concentration in Cloud Computing. I am passionate about finding new and creative ways to automate and streamline software development processes and infrastructure operations.
