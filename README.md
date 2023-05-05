@@ -2,7 +2,7 @@
 
 ## 👋 About me
 
-As a Computer Science student at Simon Fraser University, I am continuously seeking opportunities to expand my knowledge and hone my skills in the field of DevOps. I am passionate about automating and streamlining software development processes and infrastructure operations through innovative and creative solutions. I am excited to apply my skills and knowledge to contribute to the success of your organization.
+As a Computer Science student at Simon Fraser University, I am continuously seeking opportunities to expand my knowledge and hone my skills in the field of DevOps. I am passionate about automating and streamlining software development processes and infrastructure operations through innovative and creative solutions. 
 
 
 ## 🌱 I'm currently learning
