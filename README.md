@@ -14,7 +14,7 @@ I am always expanding my skill set in areas such as:
 - Automation and Scripting
 - Network Programming
 
-I'm also constantly updating my study notes on these topics, which you can find [here](https://glossy-polish-351.notion.site/Study-Notes-f313cb41bb0349e0bb60da9a4b6977b4).
+<!-- I'm also constantly updating my study notes on these topics, which you can find [here](https://glossy-polish-351.notion.site/Study-Notes-f313cb41bb0349e0bb60da9a4b6977b4). -->
 
 ## 💻 Technologies & Tools
 
