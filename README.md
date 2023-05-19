@@ -40,6 +40,6 @@ I am always open to engaging in meaningful discussions, collaborating on excitin
 
 ## 📄 Check out my Resume
 
-For a comprehensive overview of my experience and qualifications, please refer to my [Resume](https://github.com/hojungpark/hojungpark/blob/main/Hojung_Park_Resume.pdf).
+For a comprehensive overview of my experience and qualifications, please refer to my [Resume](https://github.com/hojungpark/hojungpark/blob/main/Hojung_Park_Resume(v3.1.7).pdf).
 
 Looking forward to connecting with you!
